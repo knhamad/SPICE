@@ -1,3 +1,3 @@
-from SPICE.SPICE import *
-from SPICE.QPP import *
-from SPICE import util
+from Model.SPICE import *
+from Model.QPP import *
+from Model import util
